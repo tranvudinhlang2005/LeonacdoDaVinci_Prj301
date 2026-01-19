@@ -1,6 +1,6 @@
 <%-- 
-    Document   : b
-    Created on : Jan 8, 2026, 8:26:44 PM
+    Document   : a
+    Created on : Jan 8, 2026, 8:26:34 PM
     Author     : Lenovo
 --%>
 
@@ -12,9 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1> Dang nhap thanh cong</h1>
-        <p>Tinh nang 1</p>
-        <p>Tinh nang 2</p>
-           <p>Tinh nang 3</p>
+        <h1>sai tai khoang or mat khau </h1>
     </body>
 </html>
